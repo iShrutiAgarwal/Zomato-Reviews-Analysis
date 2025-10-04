@@ -2,7 +2,7 @@
 This project focuses on analyzing Zomato restaurant reviews to understand the performance of various restaurants and their reviews using Python.
 It was implemented on Google Colab and uploaded here as a part of my Data Analysis project.
 
-## ![logo] About Dataset
+## About Dataset
 Zomato is an Indian multinational restaurant aggregator and food delivery company founded by Deepinder Goyal and Pankaj Chaddah in 2008. Zomato provides information, menus and user-reviews of restaurants as well as food delivery options from partner restaurants in select cities.
 
 This dataset containing information of food restraunts in banglaore who are working with Zomato.The data was scraped from Zomato in two phase. 
