@@ -18,7 +18,6 @@ The project involves:
 - Data   # Contains dataset (zomato.csv file)
 
 ## Technologies Used
-
 - Python
 - Pandas
 - Numpy
@@ -29,17 +28,17 @@ The project involves:
 
 
 ## Project Details
-Project Name: Zomato Review Analysis
-Category: Data Analytics
-Tools Used: Python, Google Colab, Pandas, NumPy, Matplotlib, Seaborn
-Dataset: Zomato_eda (CSV included in repo)
+- Project Name: Zomato Review Analysis
+- Category: Data Analytics
+- Tools Used: Python, Google Colab, Pandas, NumPy
+- Dataset: Zomato_eda (CSV included in repo) derived from Kaggle
 
 ## Team Members
-Shruti Agarwal
-Vartika Gupta
-Divyanshi Rastogi
-Sitanjali
-Komal Dixit
+- Shruti Agarwal
+- Vartika Gupta
+- Divyanshi Rastogi
+- Sitanjali
+- Komal Dixit
 
 ## Acknowledgement
 This project was created as part of our Project in Data Science. Special thanks to open-source libraries, the dataset contributors and my IBM mentor Naresh Kumar Sir.
