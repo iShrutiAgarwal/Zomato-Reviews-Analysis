@@ -1,6 +1,6 @@
 # Zomato-Reviews-Analysis 📊
-This project focuses on analyzing Zomato restaurant reviews to understand the performance of various restaurants and their reviews using Python.
-It was implemented on Google Colab and uploaded here as a part of my Data Analysis project.
+This project focuses on analyzing Zomato restaurant reviews to understand the performance of various restaurants and their reviews using Python libraries.
+This Exploratory Data Analysis (EDA) was implemented on Google Colab and uploaded here as a part of my Data Analysis project.
 
 ### 📍About Dataset
 Zomato is an Indian multinational restaurant aggregator and food delivery company founded by Deepinder Goyal and Pankaj Chaddah in 2008. Zomato provides information, menus and user-reviews of restaurants as well as food delivery options from partner restaurants in select cities.
@@ -13,7 +13,7 @@ I extracted this Zomato dataset from Kaggle and after going through its structur
 
   
 ## 📑Project Overview
-The project involves:
+This EDA project involves:
 
 ### Data Cleaning:
 - Importing and cleaning zomato dataset
@@ -22,11 +22,13 @@ The project involves:
 - Cleaning individual columns
 - Droping duplicates
 
-### Exploratory Data Analysis
+### Summary Statistics:
+- Descriptive statistics
 
-### Results & Insights
+### Data Visualization & Insights:
 - Percentage of orders online and offline
 - Top 10 Restaurants by Rating
+-
 
 
 ### Repository Structure
@@ -35,7 +37,7 @@ The project involves:
 - README.md   # Project documentation
 - Zomato_eda   # Contains dataset (xlsx)
 
-## ⚙️Technologies Used
+### ⚙️Technologies Used
 - Python
 - Pandas
 - Numpy
