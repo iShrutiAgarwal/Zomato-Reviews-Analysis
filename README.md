@@ -22,13 +22,18 @@ This EDA project involves:
 - Cleaning individual columns
 - Droping duplicates
 
-### Summary Statistics:
+### Summary Statistics & Insights:
 - Descriptive statistics
+- Highest rated cuisine
+- Location with most restaurants
+- Most commone restaurant types
+- Correlation between ratings and costs
 
-### Data Visualization & Insights:
+### Data Visualization:
 - Percentage of orders online and offline
 - Top 10 Restaurants by Rating
--
+- Top 10 Costly Restaurants
+- Top 10 Areas with Most Restaurants
 
 
 ### Repository Structure
