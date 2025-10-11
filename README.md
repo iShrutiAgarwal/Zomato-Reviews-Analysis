@@ -26,7 +26,7 @@ This EDA project involves:
 - Descriptive statistics
 - Highest rated cuisine
 - Location with most restaurants
-- Most commone restaurant types
+- Most common restaurant types
 - Correlation between ratings and costs
 
 ### Data Visualization:
